@@ -21,7 +21,7 @@ Global
 		{14381AAF-BD25-40B7-B99D-C4132FA0D007}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
+		HideSoLutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {FF91E636-62CF-4E02-AF70-0969DCDF0CAE}
